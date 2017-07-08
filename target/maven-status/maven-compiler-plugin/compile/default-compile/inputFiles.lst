@@ -1,6 +1,6 @@
 /home/arifhosain/Desktop/heroku/appstore/src/main/java/com/mkyong/SpringBootWebApplication.java
-/home/arifhosain/Desktop/heroku/appstore/src/main/java/model/User.java
+/home/arifhosain/Desktop/heroku/appstore/src/main/java/com.app.model/User.java
 /home/arifhosain/Desktop/heroku/appstore/src/main/java/com/mkyong/error/MyAccessDeniedHandler.java
-/home/arifhosain/Desktop/heroku/appstore/src/main/java/model/AbstractModel.java
+/home/arifhosain/Desktop/heroku/appstore/src/main/java/com.app.model/AbstractModel.java
 /home/arifhosain/Desktop/heroku/appstore/src/main/java/com/mkyong/config/SpringSecurityConfig.java
 /home/arifhosain/Desktop/heroku/appstore/src/main/java/com/mkyong/controller/DefaultController.java
